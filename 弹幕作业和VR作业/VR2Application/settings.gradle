@@ -1,0 +1,2 @@
+include ':app', ':common', ':commonwidget', ':panowidget', ':videowidget'
+rootProject.name='VR2Application'
